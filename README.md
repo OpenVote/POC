@@ -1,2 +1,3 @@
 # POC
-Proof of concept algoritum for OpenVote Platform
+Proof of concept for OpenVote Platform
+<img src='OpenVote.io_Platform.png' />
